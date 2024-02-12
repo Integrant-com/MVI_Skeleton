@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVI_Skeleton</string>
+    <string name="no_internet_connection" translatable="false">No Internet Connection</string>
+    <string name="error_server" translatable="false">There\'s problem at the system try again later.</string>
+    <string name="error_client" translatable="false">Try again later.</string>
+    <string name="try_again" translatable="false">Try Again</string>
+    <string name="dismiss" translatable="false">Dismiss</string>
+    <string name="error" translatable="false">Error</string>
+    <string name="sign_in" translatable="false">Sign in</string>
+    <string name="username" translatable="false">username</string>
+    <string name="password" translatable="false">Password</string>
+
+</resources>
